@@ -20,6 +20,7 @@ public class TC01_AramaKutusuTest01 {
         Driver.closeDriver();
 
         //amazon sayfasina gidilip arama kutusu test edildi.
+        //esen bey yeni kodlar ekledi.
     }
 
 }
